@@ -82,3 +82,21 @@ The bot is built with Python + Flask
 ![Screenshot_20240511-022650_Telegram.jpg](Screenshots/Screenshot_20240511-022650_Telegram%201.jpg)
 
 ![Screenshot_20240511-022719_Telegram.jpg](Screenshots/Screenshot_20240511-022719_Telegram.jpg)
+
+
+**Ready to Buy?**
+
+For just $**25**, you can own this impressive project and customize it to your needs.
+
+Contact Me!
+
+Got questions or ready to make a deal?
+
+Reach out directly:
+Email: ***POISSAC9***@***GMAIL***.***COM***
+
+Telegram: username is **[BerlyOge](https://t.me/BerlyOge)**
+
+Phone: **+1** **829** **252** **1576** (English only)
+
+Let's talk about payment methods and get you set up with ReloadMe Bot today! 💬🌟
