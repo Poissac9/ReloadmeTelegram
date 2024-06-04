@@ -86,7 +86,7 @@ The bot is built with Python + Flask
 
 **Ready to Buy?**
 
-For just $**25**, you can own this impressive project and customize it to your needs.
+For just $**100**, you can own this impressive project and customize it to your needs.
 
 Contact Me!
 
